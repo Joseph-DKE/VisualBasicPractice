@@ -1,0 +1,15 @@
+C:\Users\Joseph Etse\source\repos\MailOrder\obj\Debug\netcoreapp3.1\MailOrder.vbproj.AssemblyReference.cache
+C:\Users\Joseph Etse\source\repos\MailOrder\obj\Debug\netcoreapp3.1\MailOrder.VBMailOrderForm.resources
+C:\Users\Joseph Etse\source\repos\MailOrder\obj\Debug\netcoreapp3.1\MailOrder.vbproj.GenerateResource.cache
+C:\Users\Joseph Etse\source\repos\MailOrder\obj\Debug\netcoreapp3.1\MailOrder.AssemblyInfoInputs.cache
+C:\Users\Joseph Etse\source\repos\MailOrder\obj\Debug\netcoreapp3.1\MailOrder.AssemblyInfo.vb
+C:\Users\Joseph Etse\source\repos\MailOrder\obj\Debug\netcoreapp3.1\MailOrder.vbproj.CoreCompileInputs.cache
+C:\Users\Joseph Etse\source\repos\MailOrder\bin\Debug\netcoreapp3.1\MailOrder.exe
+C:\Users\Joseph Etse\source\repos\MailOrder\bin\Debug\netcoreapp3.1\MailOrder.deps.json
+C:\Users\Joseph Etse\source\repos\MailOrder\bin\Debug\netcoreapp3.1\MailOrder.runtimeconfig.json
+C:\Users\Joseph Etse\source\repos\MailOrder\bin\Debug\netcoreapp3.1\MailOrder.runtimeconfig.dev.json
+C:\Users\Joseph Etse\source\repos\MailOrder\bin\Debug\netcoreapp3.1\MailOrder.dll
+C:\Users\Joseph Etse\source\repos\MailOrder\bin\Debug\netcoreapp3.1\MailOrder.pdb
+C:\Users\Joseph Etse\source\repos\MailOrder\obj\Debug\netcoreapp3.1\MailOrder.dll
+C:\Users\Joseph Etse\source\repos\MailOrder\obj\Debug\netcoreapp3.1\MailOrder.pdb
+C:\Users\Joseph Etse\source\repos\MailOrder\obj\Debug\netcoreapp3.1\MailOrder.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\Users\Joseph Etse\source\repos\UniversityBookStore\obj\Debug\netcoreapp3.1\UniversityBookStore.BookStoreForm.resources
+C:\Users\Joseph Etse\source\repos\UniversityBookStore\obj\Debug\netcoreapp3.1\UniversityBookStore.vbproj.GenerateResource.cache
+C:\Users\Joseph Etse\source\repos\UniversityBookStore\obj\Debug\netcoreapp3.1\UniversityBookStore.AssemblyInfoInputs.cache
+C:\Users\Joseph Etse\source\repos\UniversityBookStore\obj\Debug\netcoreapp3.1\UniversityBookStore.AssemblyInfo.vb
+C:\Users\Joseph Etse\source\repos\UniversityBookStore\obj\Debug\netcoreapp3.1\UniversityBookStore.vbproj.CoreCompileInputs.cache
+C:\Users\Joseph Etse\source\repos\UniversityBookStore\bin\Debug\netcoreapp3.1\UniversityBookStore.exe
+C:\Users\Joseph Etse\source\repos\UniversityBookStore\bin\Debug\netcoreapp3.1\UniversityBookStore.deps.json
+C:\Users\Joseph Etse\source\repos\UniversityBookStore\bin\Debug\netcoreapp3.1\UniversityBookStore.runtimeconfig.json
+C:\Users\Joseph Etse\source\repos\UniversityBookStore\bin\Debug\netcoreapp3.1\UniversityBookStore.runtimeconfig.dev.json
+C:\Users\Joseph Etse\source\repos\UniversityBookStore\bin\Debug\netcoreapp3.1\UniversityBookStore.dll
+C:\Users\Joseph Etse\source\repos\UniversityBookStore\bin\Debug\netcoreapp3.1\UniversityBookStore.pdb
+C:\Users\Joseph Etse\source\repos\UniversityBookStore\obj\Debug\netcoreapp3.1\UniversityBookStore.dll
+C:\Users\Joseph Etse\source\repos\UniversityBookStore\obj\Debug\netcoreapp3.1\UniversityBookStore.pdb
+C:\Users\Joseph Etse\source\repos\UniversityBookStore\obj\Debug\netcoreapp3.1\UniversityBookStore.genruntimeconfig.cache
+C:\Users\Joseph Etse\source\repos\UniversityBookStore\obj\Debug\netcoreapp3.1\UniversityBookStore.vbproj.AssemblyReference.cache

@@ -1,0 +1,16 @@
+C:\Users\Joseph Etse\source\repos\VBMailOrder\bin\Debug\netcoreapp3.1\VBMailOrder.exe
+C:\Users\Joseph Etse\source\repos\VBMailOrder\bin\Debug\netcoreapp3.1\VBMailOrder.deps.json
+C:\Users\Joseph Etse\source\repos\VBMailOrder\bin\Debug\netcoreapp3.1\VBMailOrder.runtimeconfig.json
+C:\Users\Joseph Etse\source\repos\VBMailOrder\bin\Debug\netcoreapp3.1\VBMailOrder.runtimeconfig.dev.json
+C:\Users\Joseph Etse\source\repos\VBMailOrder\bin\Debug\netcoreapp3.1\VBMailOrder.dll
+C:\Users\Joseph Etse\source\repos\VBMailOrder\bin\Debug\netcoreapp3.1\VBMailOrder.pdb
+C:\Users\Joseph Etse\source\repos\VBMailOrder\obj\Debug\netcoreapp3.1\VBMailOrder.vbproj.AssemblyReference.cache
+C:\Users\Joseph Etse\source\repos\VBMailOrder\obj\Debug\netcoreapp3.1\VBMailOrder.VBMailOrderForm.resources
+C:\Users\Joseph Etse\source\repos\VBMailOrder\obj\Debug\netcoreapp3.1\VBMailOrder.Resources.resources
+C:\Users\Joseph Etse\source\repos\VBMailOrder\obj\Debug\netcoreapp3.1\VBMailOrder.vbproj.GenerateResource.cache
+C:\Users\Joseph Etse\source\repos\VBMailOrder\obj\Debug\netcoreapp3.1\VBMailOrder.AssemblyInfoInputs.cache
+C:\Users\Joseph Etse\source\repos\VBMailOrder\obj\Debug\netcoreapp3.1\VBMailOrder.AssemblyInfo.vb
+C:\Users\Joseph Etse\source\repos\VBMailOrder\obj\Debug\netcoreapp3.1\VBMailOrder.vbproj.CoreCompileInputs.cache
+C:\Users\Joseph Etse\source\repos\VBMailOrder\obj\Debug\netcoreapp3.1\VBMailOrder.dll
+C:\Users\Joseph Etse\source\repos\VBMailOrder\obj\Debug\netcoreapp3.1\VBMailOrder.pdb
+C:\Users\Joseph Etse\source\repos\VBMailOrder\obj\Debug\netcoreapp3.1\VBMailOrder.genruntimeconfig.cache

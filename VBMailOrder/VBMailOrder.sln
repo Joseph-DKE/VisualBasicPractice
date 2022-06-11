@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31321.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "VBMailOrder", "VBMailOrder.vbproj", "{D6FFB2B5-C1C2-4892-94FE-A20609796B83}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D6FFB2B5-C1C2-4892-94FE-A20609796B83}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6FFB2B5-C1C2-4892-94FE-A20609796B83}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6FFB2B5-C1C2-4892-94FE-A20609796B83}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6FFB2B5-C1C2-4892-94FE-A20609796B83}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7ED822B8-A2A4-44E5-9BDD-2ECA5B639A66}
+	EndGlobalSection
+EndGlobal

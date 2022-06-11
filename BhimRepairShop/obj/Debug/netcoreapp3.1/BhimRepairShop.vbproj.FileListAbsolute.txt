@@ -1,0 +1,16 @@
+C:\Users\Joseph Etse\source\repos\BhimRepairShop\obj\Debug\netcoreapp3.1\BhimRepairShop.BockRepairPartsForm.resources
+C:\Users\Joseph Etse\source\repos\BhimRepairShop\obj\Debug\netcoreapp3.1\BhimRepairShop.Resources.resources
+C:\Users\Joseph Etse\source\repos\BhimRepairShop\obj\Debug\netcoreapp3.1\BhimRepairShop.vbproj.GenerateResource.cache
+C:\Users\Joseph Etse\source\repos\BhimRepairShop\obj\Debug\netcoreapp3.1\BhimRepairShop.AssemblyInfoInputs.cache
+C:\Users\Joseph Etse\source\repos\BhimRepairShop\obj\Debug\netcoreapp3.1\BhimRepairShop.AssemblyInfo.vb
+C:\Users\Joseph Etse\source\repos\BhimRepairShop\obj\Debug\netcoreapp3.1\BhimRepairShop.vbproj.CoreCompileInputs.cache
+C:\Users\Joseph Etse\source\repos\BhimRepairShop\bin\Debug\netcoreapp3.1\BhimRepairShop.exe
+C:\Users\Joseph Etse\source\repos\BhimRepairShop\bin\Debug\netcoreapp3.1\BhimRepairShop.deps.json
+C:\Users\Joseph Etse\source\repos\BhimRepairShop\bin\Debug\netcoreapp3.1\BhimRepairShop.runtimeconfig.json
+C:\Users\Joseph Etse\source\repos\BhimRepairShop\bin\Debug\netcoreapp3.1\BhimRepairShop.runtimeconfig.dev.json
+C:\Users\Joseph Etse\source\repos\BhimRepairShop\bin\Debug\netcoreapp3.1\BhimRepairShop.dll
+C:\Users\Joseph Etse\source\repos\BhimRepairShop\bin\Debug\netcoreapp3.1\BhimRepairShop.pdb
+C:\Users\Joseph Etse\source\repos\BhimRepairShop\obj\Debug\netcoreapp3.1\BhimRepairShop.dll
+C:\Users\Joseph Etse\source\repos\BhimRepairShop\obj\Debug\netcoreapp3.1\BhimRepairShop.pdb
+C:\Users\Joseph Etse\source\repos\BhimRepairShop\obj\Debug\netcoreapp3.1\BhimRepairShop.genruntimeconfig.cache
+C:\Users\Joseph Etse\source\repos\BhimRepairShop\obj\Debug\netcoreapp3.1\BhimRepairShop.vbproj.AssemblyReference.cache
